@@ -1,4 +1,4 @@
-#### Chirag Vijay's first CS193 Lab
+# Chirag Vijay's first CS193 Lab
 - I love the fact that students teach CS193.
 - There are no midterms!
 ## Welcome to GitHub Pages
